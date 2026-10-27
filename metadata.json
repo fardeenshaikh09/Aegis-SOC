@@ -1,0 +1,6 @@
+{
+  "name": "AegisSOC - Enterprise Cyber Defense & SIEM Platform",
+  "description": "Next-generation security operations platform featuring real-time SIEM threat monitoring, automated vulnerability scanning, MITRE ATT&CK mapping, and automated incident containment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
